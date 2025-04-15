@@ -1,3 +1,7 @@
+ # This is CS4395 Assignment 2 github repo. The word embedding file is too large to upload to github so it had to be excluded.
+
+
+
 # starter code for a2
 
 Add the corresponding (one) line under the ``[to fill]`` in ``def forward()`` of the class for ffnn.py and rnn.py
